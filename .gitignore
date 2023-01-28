@@ -1,0 +1,5 @@
+.idea/*
+*.txt.tmp
+*.pt
+__pycache__
+*.zip
